@@ -1,2 +1,2 @@
-# Projetos_Aulas
+# Projetos_calcula_tinta
 Aulas Python
